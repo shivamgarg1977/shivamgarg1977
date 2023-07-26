@@ -42,7 +42,7 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <h2 align="center"><img src="LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
-  <a href="https://leetcode.com/yadav621gzp" target="_blank">
+  <a href="https://leetcode.com/shivamgarg1977" target="_blank">
     <img width=60% src="https://leetcode.card.workers.dev/?username=shivamgarg1977&theme=dark&extension=activity&border_radius=10"/>
   </a>
 </p>
